@@ -11,7 +11,7 @@
         {
             "name": "YouTube",
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Example Developer",
+            "developerName": "Eric Shu",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://i.imgur.com/bxRg9ZR.png",
