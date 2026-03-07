@@ -1,9 +1,10 @@
 {
-    "name": "Eric YTLite Source",
-    "subtitle": "Eric Shu's source for patched YouTube",
-    "description": "Eric Shu's source for patched YouTube",
+    "name": "Eric's YTLite Source",
+    "subtitle": "Eric Shu's source for modded YouTube",
+    "description": "Modded YouTube!",
     "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
     "website": "https://altstudio.app",
+    "patreonURL": "https://patreon.com/altstudio",
     "tintColor": "#6156e2",
     "featuredApps": [],
     "apps": [
@@ -18,6 +19,17 @@
             "tintColor": "#fc0434",
             "category": "other",
             "screenshots": [],
+            "versions": [
+                {
+                    "downloadURL": "https://github.com/ericshu6/YTLite/releases/download/ytp-3/YouTubePlus_5.2b4.ipa",
+                    "size": 126100000,
+                    "version": "5.2.0",
+                    "buildVersion": null,
+                    "date": "2026-03-07T08:22:00-08:00",
+                    "localizedDescription": null,
+                    "minOSVersion": null
+                }
+            ],
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
